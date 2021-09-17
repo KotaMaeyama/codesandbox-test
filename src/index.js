@@ -184,5 +184,5 @@
 // const val1 = 1 > 0 ? 'true' : 'false';
 // console.log(val1);
 
-const num = 1300;
-num.toLocaleString();
+// const num = 1300;
+// num.toLocaleString();
